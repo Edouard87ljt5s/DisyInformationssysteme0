@@ -1,5 +1,7 @@
 ([中文文档](https://paddlerec.readthedocs.io/en/latest/)|简体中文|[English](./README_EN.md))
 
+注意：定期从github同步至该仓库，更多模型请参考https://github.com/PaddlePaddle/PaddleRec
+
 <p align="center">
 <img align="center" src="doc/imgs/logo.png">
 <p>
